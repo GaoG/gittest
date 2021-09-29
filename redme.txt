@@ -1,4 +1,7 @@
 test git version
 this is free
 
-learn index HEAD hard  
+learn index HEAD hard 
+
+
+git  diff HRAD --redme.txt 
